@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sir_kokabi" target="blank"><img src="https://img.shields.io/twitter/follow/sir_kokabi?logo=twitter&style=for-the-badge" alt="sir_kokabi" /></a> </p>
 
-- 🌱 Currently learning: **Javascript, Tailwind, Sveltekit**
+- 🌱 I'm Currently learning **Javascript, Tailwind, Sveltekit**
 
-- 📫 Email: **sir.kokabi@gmail.com**
+- 📫 **sir.kokabi@gmail.com**
 
-- ⚡ You should know: **I think I am a perfectionism and disciplined person**
+- ⚡ **I think I am a perfectionism and disciplined person**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
